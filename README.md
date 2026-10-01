@@ -43,6 +43,3 @@ pip install -r requirements.txt
 cd common/eeg && python reproduce_eeg.py
 ```
 
-## Citation
-
-> Jeong Y, Kim C, Ha S, Choi S, Han S. BrainPT, a cognitive mini-game app for short-form video use in young adults: neural and behavioral pilot study. *[journal, year — to be added]*.
