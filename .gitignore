@@ -1,0 +1,23 @@
+# Participant data is not part of this repository
+data/
+analysis_results/
+*.edf
+*.set
+*.fdt
+*.mat
+*.psydat
+*.xlsx
+*.zip
+
+# Credentials
+serviceAccountKey.json
+*serviceAccountKey*.json
+
+# Environment / editor
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.claude/
+.venv/
+venv/
