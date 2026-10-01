@@ -21,3 +21,6 @@ __pycache__/
 .claude/
 .venv/
 venv/
+
+# README figures (kept locally, not committed)
+figures/
